@@ -19,4 +19,4 @@
         
         9) Best practices for collaboration using Git
 
-    It was a hands-on, beginner-friendly session aimed at helping students get comfortable with version control and open-source collaboration.
+    It was a hands-on, beginner-friendly session aimed at helping students get comfortable with version control and open-source collabrations.
